@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388107402852",
+    "project_id": "flutttutt",
+    "storage_bucket": "flutttutt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388107402852:android:5dcb91a12595e3eba16971",
+        "android_client_info": {
+          "package_name": "com.example.video_urok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388107402852-jgmlnn7ps3f9q0r0p714son6vqqciffp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSb78IyJ1wd1jZtbRW-IAC5Z5P1_1uAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388107402852-jgmlnn7ps3f9q0r0p714son6vqqciffp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
