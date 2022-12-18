@@ -1,6 +1,6 @@
 # Dial Mobile (CERN Phone Mobile App)
 
-<img src="docs/screenshots/login-screen.png" width="200"> <img src="docs/screenshots/number-selector.png" width="200"> <img src="docs/screenshots/dial-pad.png" width="200">  <img src="docs/screenshots/on-call.png" width="200">
+<img src="https://scontent-hel3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.9.768.768a/s640x640/164977630_151278060207797_7341756631569727258_n.jpg?tp=1&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=O5ggIg7DoVcAX-8g01E&edm=APU89FABAAAA&ccb=7-4&oh=5828f4a516eb81b728c95f7017855e2a&oe=60B7E2BF&_nc_sid=86f79a" width="200"> <img src="docs/screenshots/number-selector.png" width="200"> <img src="docs/screenshots/dial-pad.png" width="200">  <img src="docs/screenshots/on-call.png" width="200">
 
 [View all screenshots](docs/all-screenshots.md)
 
