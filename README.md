@@ -8,29 +8,20 @@
 ### Tungi rejim
 <img src="/assets/images/t1.jpg" width="200"> <img src="/assets/images/t2.jpg" width="200"> <img src="/assets/images/t4.jpg" width="200">  <img src="/assets/images/t3.jpg" width="200">
 
-## Requirements
+## Ishlatilgan texnologiyalar
 
-To install the following components, please follow the React Native guide for your platform
+Ilovani ishlab chiqishda ishlatilgan package, widget va boshqa texnologiyalar
 
-- Android >= 8.1
-- Node >= 11.10.1
-- [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
-- yarn (>1.16.0)
-- React Native >= 0.61
+- Http package
+- Hive database Packages
+- Cached Network Image Package
+- YouTube video player 
+- WebView 
+- Lottie
+- Url Launcher
+- Firebase Storage/Auth
+- YouTube API
 
-## Development
 
-### Read the docs
-
-- [Contributing Guidelines](docs/CONTRIBUTING.md)
-- [Git Basics](docs/git-basics.md)
-
-### Environment setup
-
-1. Follow the steps of the official [React Native documentation](https://facebook.github.io/react-native/docs/0.60/getting-started) to setup your development environment. Since we are using native modules, we need to follow the `React Native CLI Quickstart` guide.
-
-### Updating libs
-
-> ⚠️ Beware of the libs used which contain native code. Some of them are highly dependent on the React Native version and might not be compatible with newer ones.
 
 
