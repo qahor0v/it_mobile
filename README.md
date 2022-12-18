@@ -8,16 +8,6 @@
 ### Tungi rejim
 <img src="/assets/images/t1.jpg" width="200"> <img src="/assets/images/t2.jpg" width="200"> <img src="/assets/images/t4.jpg" width="200">  <img src="/assets/images/t3.jpg" width="200">
 
-[![Build Status](https://travis-ci.com/cern-phone-apps/mobile-phone-app.svg?branch=master)](https://travis-ci.com/cern-phone-apps/mobile-phone-app) [![codecov](https://codecov.io/gh/cern-phone-apps/mobile-phone-app/branch/master/graph/badge.svg)](https://codecov.io/gh/cern-phone-apps/mobile-phone-app) [![Dependency Status](https://david-dm.org/cern-phone-apps/mobile-phone-app.svg)](https://david-dm.org/cern-phone-apps/mobile-phone-app)
-
-## Current limitations
-
-| OS | Status |
-| -- | -- |
-| Android | Tested and working on Android 9 |
-| iOS | Not yet compatible |
-
-
 ## Requirements
 
 To install the following components, please follow the React Native guide for your platform
