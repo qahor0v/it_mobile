@@ -1,6 +1,6 @@
 # Dial Mobile (CERN Phone Mobile App)
 
-<img src="/foodo_1/blob/master/k1.jpg" width="200"> <img src="docs/screenshots/number-selector.png" width="200"> <img src="docs/screenshots/dial-pad.png" width="200">  <img src="docs/screenshots/on-call.png" width="200">
+<img src="/assets/images/k1.jpg" width="200"> <img src="docs/screenshots/number-selector.png" width="200"> <img src="docs/screenshots/dial-pad.png" width="200">  <img src="docs/screenshots/on-call.png" width="200">
 
 [View all screenshots](docs/all-screenshots.md)
 
@@ -41,63 +41,4 @@ To install the following components, please follow the React Native guide for yo
 
 > ⚠️ Beware of the libs used which contain native code. Some of them are highly dependent on the React Native version and might not be compatible with newer ones.
 
-- [React Native Callkeep](https://github.com/react-native-webrtc/react-native-callkeep)
-- [React Native Webrtc](https://github.com/react-native-webrtc/react-native-webrtc)
-- [React Native Firebase](https://github.com/invertase/react-native-firebase)
-- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
-- [React Navigation (and it's dependencies)](https://reactnavigation.org/)
-    - [React Native Gesture Handler](https://github.com/kmagiera/react-native-gesture-handler)
-    - [React Native Screens](https://github.com/kmagiera/react-native-screens)
-    - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)
-- [React Native Sound](https://github.com/zmxv/react-native-sound)
 
-
-### Debugging
-
-#### On a physical device
-
-- Shake the phone to display the development menu.
-
-#### On the emulator
-
-- Command + M will display the development menu.
-
-#### Change the debugger port
-
-1. Open the development menu
-2. On "Dev Settings" change the "Debug server
-host & port for device" to something like:
-`localhost:8081`
-
-## Run the app
-
-### On Android
-
-```bash
-yarn
-yarn run android
-```
-
-### Troubleshoot your environment
-
-Running the following command will return a diagnosis of your environment:
-
-```bash
-npx @react-native-community/cli doctor
-```
-
-## Testing
-
-```bash
-yarn test
-```
-
-## Packaging and Deployment
-
-- Read the https://facebook.github.io/react-native/docs/signed-apk-android
-
-The following command will generate the `apk` for Android.
-```
-cd android
-./gradlew assembleRelease
-```
