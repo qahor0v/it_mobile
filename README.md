@@ -1,10 +1,9 @@
-# Dial Mobile (CERN Phone Mobile App)
+# IT Mobile
 
-<img src="/assets/images/k1.jpg" width="200"> <img src="docs/screenshots/number-selector.png" width="200"> <img src="docs/screenshots/dial-pad.png" width="200">  <img src="docs/screenshots/on-call.png" width="200">
+<img src="/assets/images/k1.jpg" width="200"> <img src="/assets/images/k2.jpg" width="200"> <img src="/assets/images/k3.jpg" width="200">  <img src="/assets/images/k4.jpg" width="200">
 
-[View all screenshots](docs/all-screenshots.md)
 
-CERN Phone application to make and receive calls.
+<img src="/assets/images/t1.jpg" width="200"> <img src="/assets/images/t2.jpg" width="200"> <img src="/assets/images/t3.jpg" width="200">  <img src="/assets/images/t4.jpg" width="200">
 
 [![Build Status](https://travis-ci.com/cern-phone-apps/mobile-phone-app.svg?branch=master)](https://travis-ci.com/cern-phone-apps/mobile-phone-app) [![codecov](https://codecov.io/gh/cern-phone-apps/mobile-phone-app/branch/master/graph/badge.svg)](https://codecov.io/gh/cern-phone-apps/mobile-phone-app) [![Dependency Status](https://david-dm.org/cern-phone-apps/mobile-phone-app.svg)](https://david-dm.org/cern-phone-apps/mobile-phone-app)
 
